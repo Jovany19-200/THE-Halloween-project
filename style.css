@@ -1,0 +1,87 @@
+*{
+    background-color: #000000;
+    color: #f87902;
+}
+
+.lead {
+    font-size: 1.25rem;
+    font-weight: 300;
+    font-family: "Amatic SC", sans-serif;
+}
+.henny-penny {
+    font-family: "Henny Penny", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 60px;
+  }
+  
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+
+}
+
+.story {
+    padding: 10%;
+  font-family: "Barriecito", system-ui;
+}
+
+.story2 {
+    padding: 10%;
+  font-family: "Barriecito", system-ui;
+}
+
+.story3 {
+    padding: 10%;
+  font-family: "Barriecito", system-ui;
+}
+
+.story4 {
+    padding: 10%;
+  font-family: "Barriecito", system-ui;
+}
+
+.story5 {
+    padding: 10%;
+  font-family: "Barriecito", system-ui;
+}
+
+header, footer {
+    background-color: #6E260E;
+    color: #ff0000;
+    padding: 10px 0;
+    text-align: center;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+#madLibOutput {
+    padding: 20px;
+    text-align: center;
+    text-decoration-line: underline;
+}
+
+
+
+
+/* Add more styles based on your creativity and design preferences */
+.button {
+  background-color: #885405;
+  border: none;
+  color: rgb(15, 143, 58);
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+
+}
+
