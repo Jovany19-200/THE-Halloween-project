@@ -64,12 +64,55 @@ footer {
 #madLibOutput {
     padding: 20px;
     text-align: center;
-    text-decoration-line: underline;
 }
 
+.adjective1 {
+  text-shadow: 2px 2px 5px red;
+}
 
+.adjective2 {
+  text-shadow: 2px 2px 5px red;
+}
 
+.adjective3 {
+  text-shadow: 2px 2px 5px red;
+}
 
+.adjective4 {
+  text-shadow: 2px 2px 5px red;
+}
+
+.creature {
+  text-shadow: 2px 2px 5px red;
+}
+
+.creature2 {
+  text-shadow: 2px 2px 5px red;
+}
+
+.insult {
+  text-shadow: 2px 2px 5px red;
+}
+
+.insult2 {
+  text-shadow: 2px 2px 5px red;
+}
+
+.weapon {
+  text-shadow: 2px 2px 5px red;
+}
+
+.celebrity {
+  text-shadow: 2px 2px 5px red;
+}
+
+.friend {
+  text-shadow: 2px 2px 5px red;
+}
+
+.monster {
+  text-shadow: 2px 2px 5px red;
+}
 /* Add more styles based on your creativity and design preferences */
 .button {
   background-color: #885405;
